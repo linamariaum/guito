@@ -11,13 +11,14 @@ b) mpi: permite desarrollar aplicaciones orientadas a procesos concurrentes (pro
 
 c) Rest/soa/xml/json: permiten la comunicación entre procesos usado principalmente en aplicaciones Web.
 
-Esta aplicación tipo Agar io, se hará uso de un servidor node.js con p5.js y comunicación vía socket.io.
-
 ## Requisitos:
+
+En esta aplicación tipo Agar io, se hará uso de un servidor node.js con p5.js y comunicación vía socket.io.
 
 1) Tener instalado NodeJs
 
-Referencias:
+## Referencias:
+
 https://github.com/processing/p5.js/wiki/p5.js,-node.js,-socket.io
 
 ## Licencia
