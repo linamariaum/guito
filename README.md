@@ -1,4 +1,4 @@
-# guito
+# Guito
 Desarrollo de una aplicacion de red (Juego), para el curso Comunicaciones y redes II. La aplicación debe ser multiusuario.
 
 ## Objetivo:
@@ -17,6 +17,6 @@ Esta aplicación tipo Agar io, se hará uso de un servidor node.js con p5.js y c
 Referencias:
 https://github.com/processing/p5.js/wiki/p5.js,-node.js,-socket.io
 
-## License
+## Licencia
 
 [![MIT License](https://img.shields.io/badge/license-MIT-a12537.svg  "MIT License")](/LICENSE.md)
