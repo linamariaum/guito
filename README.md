@@ -4,8 +4,11 @@ Desarrollo de una aplicacion de red (Juego), para el curso Comunicaciones y rede
 ## Objetivo:
 
 Poner en práctica el uso de alguna de las api’s de red, tales como: 
+
 a) Sockets/web sockets: permiten desarrollar aplicaciones red basadas en tcp/udp/ip entre otras.
+
 b) mpi: permite desarrollar aplicaciones orientadas a procesos concurrentes (procesamiento en paralelo).
+
 c) Rest/soa/xml/json: permiten la comunicación entre procesos usado principalmente en aplicaciones Web.
 
 Esta aplicación tipo Agar io, se hará uso de un servidor node.js con p5.js y comunicación vía socket.io.
