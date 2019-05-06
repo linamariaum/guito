@@ -1,0 +1,25 @@
+{
+  "name": "guito",
+  "version": "1.0.0",
+  "description": "Desarrollo de una aplicacion de red (Juego), para el curso Comunicaciones y redes II. La aplicación debe ser multiusuario.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linamariaum/guito.git"
+  },
+  "keywords": [],
+  "author": "Lina Uribe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linamariaum/guito/issues"
+  },
+  "homepage": "https://github.com/linamariaum/guito#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
