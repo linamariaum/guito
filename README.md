@@ -13,15 +13,15 @@ c) Rest/soa/xml/json: permiten la comunicación entre procesos usado principalme
 
 El propósito del juego es encontrar el círculo Dorado, en el proceso el círculo que hace las veces de avatar podrá irse alimentando de otros círculos y con esto va incrementando su tamaño. A su vez podrá visualizar a los otros jugadores que de igual forma, se encuentran en la búsqueda del círculo dorado.
 
-   Cada que se capture un círculo, se aumentará de tamaño y el puntaje aumentara en un valor de +1 punto.
+     Cada que se capture un círculo, se aumentará de tamaño y el puntaje aumentara en un valor de +1 punto.
   
-   Capturar el círculo dorado le otorgará +150 puntos.
+     Capturar el círculo dorado le otorgará +150 puntos.
   
-   Gana el jugador con más puntaje.
+     Gana el jugador con más puntaje.
   
-   Cada jugador posee un id único.
+     Cada jugador posee un id único.
   
-   El círculo irá hacia donde apunte el cursor, se debe dar click o mantener presionado.
+     El círculo irá hacia donde apunte el cursor, se debe dar click o mantener presionado.
 
 ## Requisitos:
 
@@ -67,9 +67,8 @@ carpeta. Se descargan las dependencias del proyecto ejecutando el comando:
 funcionamiento de la aplicación desde nuestro ordenador que a su vez está
 actuando como servidor.
 
-5) Para ingresar desde otro ordenador al juego, se debe de estar conectado a la
-misma red de internet e ingresar a la IP donde está el servidor por el puerto
-3000. Es decir, ingresar así: IP:3000
+5) Para ingresar desde otro ordenador al juego, se debe de estar conectado a la misma red de internet e ingresar a la IP donde está el servidor por el puerto 3000. Es decir, ingresar así: IP:3000
+
   > Para determinar la IP, desde el ordenador que tenemos como servidor realizamos el comando ifconfig (Linux) o ipconfig(Windows).
   > Generalmente es la IP 192.168.x.x
 
